@@ -19,3 +19,7 @@ From a defensive perspective, the system appears hardened against reconnaissance
 
 ## Relevance to Behavioral Authentication
 Rather than relying on credential-based authentication, the target system demonstrates contextual trust evaluation—responding differently to automated probes than it would to legitimate, human-driven interaction.
+
+## Evidence
+
+![Nmap scan showing tcpwrapped responses across high-numbered ports](screenshots/nmap-tcpwrapped-scan.png)
