@@ -23,6 +23,9 @@ The lab focuses on how machines probe environments to validate authenticity—mi
 Controlled reconnaissance scans were conducted in lab environments and against publicly permitted targets.  
 Traffic patterns, scan timing, and service responses were observed to identify characteristics of automated behavior rather than human interaction.
 
+## Findings
+Detailed reconnaissance observations and behavioral analysis can be found in [findings.md](findings.md).
+
 ## Ethical Scope
 All activity was performed in controlled lab environments or against authorized public targets.  
 No exploitation, payload delivery, or persistence techniques were used.
