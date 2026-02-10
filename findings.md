@@ -22,4 +22,4 @@ Rather than relying on credential-based authentication, the target system demons
 
 ## Evidence
 
-![Nmap scan showing tcpwrapped responses across high-numbered ports](screenshots/nmap-tcpwrapped-scan.png)
+![Nmap scan showing tcpwrapped responses across high-numbered ports](screenshots/nmap-tcpwrapped-scan.jpg)
