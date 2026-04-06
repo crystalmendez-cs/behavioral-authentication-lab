@@ -23,3 +23,10 @@ Rather than relying on credential-based authentication, the target system demons
 ## Evidence
 
 ![Nmap scan showing tcpwrapped responses across high-numbered ports](screenshots/nmap-tcpwrapped-scan.jpg)
+## Analyst Conclusion
+
+The observed network behavior suggests that the target system is not solely relying on traditional service exposure for interaction, but instead applying behavioral or contextual filtering mechanisms.
+
+Rather than responding equally to all connection attempts, the system differentiates between automated reconnaissance activity and legitimate user-driven interaction.
+
+This aligns with modern defensive strategies that prioritize behavioral analysis over static trust models, reinforcing the concept that identity alone is not sufficient—behavior must also be validated.
